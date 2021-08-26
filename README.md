@@ -2,6 +2,9 @@
 State, reducer, action + redux hooks (useDispatch, useSelector)
 
 ## -------
+Необходимые пакеты:
+npm install redux react-redux -save 
+
 создается store. 
 Action - js-объект у которого есть поля type и какие-то данные
 action = {type: “”, payload:””}
